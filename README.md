@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/notifications-page-Ac3xmaJ4-o)
-- Live Site URL: [Click here](https://israeljrx.github.io/notfications-page-main/)
+- Live Site URL: [Click here](https://israeljrx.github.io/notifications-page-main/)
 
 ## My process
 
