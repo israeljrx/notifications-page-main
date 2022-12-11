@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/mobile-design.jpg.jpg)
-![](./design/desktop-design.jpg.jpg)
+![](./design/mobile-design.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notifications-page-Ac3xmaJ4-o)
-- Live Site URL: [Add live site URL here](https://israeljrx.github.io/notfications-page-main/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/notifications-page-Ac3xmaJ4-o)
+- Live Site URL: [Click here](https://israeljrx.github.io/notfications-page-main/)
 
 ## My process
 
