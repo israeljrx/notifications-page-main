@@ -34,6 +34,7 @@ img{
 
 a{
   text-decoration: none;
+  color: var(--verydarkblue);
 }
 
 .container{
@@ -108,6 +109,7 @@ header button:hover{
 .notifications .photoaction{
   position: absolute;
   right: 1rem;
+  cursor: pointer;
 }
 
 .notify .username{
@@ -115,7 +117,7 @@ header button:hover{
   font-weight: 800;
 }
 
-.notify .username:hover, .notify .item:hover{
+.notify .username:hover, .notify .item:hover, a:hover{
   color: var(--basicblue);
 }
 
